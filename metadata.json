@@ -1,0 +1,6 @@
+{
+  "name": "Generador EAN-13 GS1 México · TiendaTek",
+  "description": "Generador profesional de códigos de barras EAN-13 con estándar GS1 México (prefijo 750), cálculo de dígito verificador módulo 10, exportación CSV para TiendaTek e impresión de etiquetas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
